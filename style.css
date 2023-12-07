@@ -1,3 +1,11 @@
 .para{
-    color: blue;
+    color: rgb(255, 255, 255);
+}
+.background{
+    background-image: url(photos/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
+width: fit-content;
+}
+.Welcome{
+    color: white;
+    text-align: center;
 }
