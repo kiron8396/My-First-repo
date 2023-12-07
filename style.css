@@ -13,3 +13,13 @@ width: fit-content;
     text-align: center;
     color: blue;
 }
+input{
+    margin-bottom: 6px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    box-shadow: 3px 1px rgb(255, 167, 167);
+}
+.submit1{
+    padding: 10px 25px;
+    background-color: aqua;
+}
